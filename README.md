@@ -2,19 +2,17 @@
 
 ### Hi! I am Egle - A Full-Stack Web Developer.
 
-My stack currently is **HTML, CSS, Bootstrap, Sass, JavaScript**.
-I am learning **React, Express, Node.js, MongoDB**.(
-I will be a fully accredited Web Developer in June 2021. German accredited certification by Digital Career Institute (DCI)  in Hamburg.
+My stack currently is **HTML, CSS, Bootstrap, Sass, JavaScript**.  
+I am learning **React, Express, Node.js, MongoDB**.  
+Fully accredited Web Developer in June 2021. German accredited certification by Digital Career Institute (DCI) in Hamburg.  
 
 Besides the bootcamp at DCI:
 * I am taking a CS50 online course on edX by HarwardX.
 * I am leaning Typescript
-* Learning using DOcker and Kubernetes
+* Learning using Docker and Kubernetes
 
 
-**My resume: [Resume](eglehelms.dev/resume)**
-My Portfolio: [eglehelms.dev](eglehelms.dev)
-
+**My resume: [Resume](eglehelms.dev/resume)**  
 
 # My Projects
 
