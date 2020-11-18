@@ -20,7 +20,7 @@ Besides the bootcamp at DCI:
 
 Simple password generator with ability to control the character sets and number of characters. Built with HTML, CSS, JavaScript.
 
-[Demo](Link) | [Code](Link)
+[Demo](https://eglehelms.github.io/password-generator/) | [Code](https://github.com/EgleHelms/password-generator)
 
 ## Invaders game
 
