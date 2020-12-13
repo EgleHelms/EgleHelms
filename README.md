@@ -12,7 +12,7 @@ Besides the bootcamp at DCI:
 * Learning to use Docker and Kubernetes
 
 
-**My resume: [Resume](eglehelms.dev/resume)**  
+**My resume: [Resume](https://eglehelms.dev/wp-content/uploads/2020/12/EgleH-CV.pdf)**  
 
 # My Projects
 
@@ -21,6 +21,12 @@ Besides the bootcamp at DCI:
 Simple password generator with ability to control the character sets and number of characters. Built with HTML, CSS, JavaScript.
 
 [Demo](https://eglehelms.github.io/password-generator/) | [Code](https://github.com/EgleHelms/password-generator)
+
+## Calculator
+
+Basic Calculator.  Built with HTML, CSS, JavaScript.
+
+[Demo](https://eglehelms.github.io/calculator/) | [Code](https://github.com/EgleHelms/calculator)
 
 ## Invaders game
 
@@ -37,6 +43,8 @@ Simple timer app, where you can set a timer of any length. Timer has a few defau
 ## Notes
 
 Simple notes app where you can save your notes and make checklists.  Built with HTML, CSS, JavaScript.
+
+[Demo](Link) | [Code](Link)
 
 ## Ticketing system
 
