@@ -6,11 +6,6 @@ My stack currently is **HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Handleba
 I am learning **React, express.js, node.js, MongoDB**.  
 Fully accredited Web Developer in June 2021. German accredited certification by Digital Career Institute (DCI) in Hamburg.  
 
-Besides the bootcamp at DCI:
-* I am taking a CS50 online course on edX by HarwardX.
-* I am leaning Typescript
-* Learning to use Docker and Kubernetes
-
 
 **My resume: [Resume](https://eglehelms.dev/wp-content/uploads/2020/12/EgleH-CV.pdf)**  
 
