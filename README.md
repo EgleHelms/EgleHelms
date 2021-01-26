@@ -2,8 +2,8 @@
 
 ### Hi! I am Egle - A Full-Stack Web Developer.
 
-My stack currently is **HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Handlebars**.  
-I am learning **React, express.js, node.js, MongoDB**.  
+My stack currently is **HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Handlebars, React**.  
+I am learning **Angular.js, express.js, node.js, MongoDB, MySQL, SQL**.  
 Fully accredited Web Developer in June 2021. German accredited certification by Digital Career Institute (DCI) in Hamburg.  
 
 
@@ -23,26 +23,15 @@ Basic Calculator.  Built with HTML, CSS, JavaScript.
 
 [Demo](https://eglehelms.github.io/calculator/) | [Code](https://github.com/EgleHelms/calculator)
 
-## Invaders game
+## Sticky Notes
 
 Very basic shooting game where you need to destroy the invaders with 5 levels of difficulty.  Built with HTML, CSS, JavaScript.
 
-[Demo](Link) | [Code](Link)
+[Demo](https://eglehelms.github.io/stickynotes) | [Code](https://github.com/EgleHelms/stickynotes)
 
 ## Timer
 
 Simple timer app, where you can set a timer of any length. Timer has a few default posibilities, e.g Pomodoro Timer set.  Built with HTML, CSS, JavaScript.
 
-[Demo](Link) | [Code](Link)
+[Demo](https://eglehelms.github.io/timer) | [Code](https://github.com/EgleHelms/timer)
 
-## Notes
-
-Simple notes app where you can save your notes and make checklists.  Built with HTML, CSS, JavaScript.
-
-[Demo](Link) | [Code](Link)
-
-## Ticketing system
-
-Advanced project I am working on.  Built with HTML, CSS, JavaScript, MongoDB, React.js.
-
-[Demo](Link) | [Code](Link)
