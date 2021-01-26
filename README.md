@@ -25,7 +25,7 @@ Basic Calculator.  Built with HTML, CSS, JavaScript.
 
 ## Sticky Notes
 
-Very basic shooting game where you need to destroy the invaders with 5 levels of difficulty.  Built with HTML, CSS, JavaScript.
+Sticky notes browser application with ability to store the notes created in the Local Storage. Built with HTML, CSS, Vanilla JavaScript.
 
 [Demo](https://eglehelms.github.io/stickynotes) | [Code](https://github.com/EgleHelms/stickynotes)
 
