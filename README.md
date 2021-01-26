@@ -2,8 +2,8 @@
 
 ### Hi! I am Egle - A Full-Stack Web Developer.
 
-My stack currently is **HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Handlebars, React**.  
-I am learning **Angular.js, express.js, node.js, MongoDB, MySQL, SQL**.  
+My stack currently is **HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Handlebars, React,  node.js**.  
+I am learning **Angular.js, express.js, MongoDB, MySQL, SQL**.  
 Fully accredited Web Developer in June 2021. German accredited certification by Digital Career Institute (DCI) in Hamburg.  
 
 
