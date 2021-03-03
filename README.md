@@ -9,7 +9,7 @@ Fully accredited Web Developer in June 2021. German accredited certification by 
 
 **My resume: [Resume](https://eglehelms.dev/wp-content/uploads/2020/12/EgleH-CV.pdf)**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgleHelms87&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgleHelms&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EgleHelms&show_icons=true&theme=radical)
 
 # My Projects
