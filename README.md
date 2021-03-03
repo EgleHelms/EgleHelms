@@ -2,10 +2,20 @@
 
 ### Hi! I am Egle - A Full-Stack Web Developer.
 
-My stack currently is **HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Handlebars, React,  node.js**.  
-I am learning **Angular.js, express.js, MongoDB, MySQL, SQL**.  
-Fully accredited Web Developer in June 2021. German accredited certification by Digital Career Institute (DCI) in Hamburg.  
+## My Stack
+![](https://img.shields.io/badge/<Web>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/<JS>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/<DB>-<MongoDB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
+![](https://img.shields.io/badge/<Web>-<ExpressJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/<Web>-<NodeJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/<Web>-<Handlebars>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/<Web>-<EJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=black)
+![](https://img.shields.io/badge/<Web>-<HTML5>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/<Web>-<CSS3>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/<Web>-<SCSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brown)
+![](https://img.shields.io/badge/<Web>-<Git>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
+Fully accredited Web Developer in June 2021. German accredited certification by Digital Career Institute (DCI) in Hamburg.  
 
 **My resume: [Resume](https://eglehelms.dev/wp-content/uploads/2020/12/EgleH-CV.pdf)**  
 
