@@ -9,6 +9,8 @@ Fully accredited Web Developer in June 2021. German accredited certification by 
 
 **My resume: [Resume](https://eglehelms.dev/wp-content/uploads/2020/12/EgleH-CV.pdf)**  
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H62HMGS)
+
 # My Projects
 
 ## Password Generator
