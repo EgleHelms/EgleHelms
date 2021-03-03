@@ -4,7 +4,7 @@
 
 ## My Stack
 ![](https://img.shields.io/badge/<MAIN>-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/<JS>-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/<JS>-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/<State>-REDUX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightblue)
 ![](https://img.shields.io/badge/<DB>-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
 ![](https://img.shields.io/badge/<DB>-Mongoose-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fucia)
@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/<Style>-CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/<Style>-SCSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/<Style>-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
+![](https://img.shields.io/badge/<Packages>-NPM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/<VC>-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
 Fully accredited Web Developer in June 2021. German accredited certification by Digital Career Institute (DCI) in Hamburg.  
