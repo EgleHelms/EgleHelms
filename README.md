@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/<Web>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/<JS>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/<DB>-<MongoDB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
+![](https://img.shields.io/badge/<DB>-<Mongoose>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fucia)
 ![](https://img.shields.io/badge/<Web>-<ExpressJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/<Web>-<NodeJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/<Web>-<Handlebars>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
