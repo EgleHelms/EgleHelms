@@ -34,6 +34,12 @@ Weather app that shows gets detailed forecast for current weather conditions in 
 
 [Demo](https://eglehelms.github.io/weatherapp) | [Code](https://github.com/EgleHelms/weatherapp)
 
+## Portfolio page
+
+My portfolio page displaying my recent projects. Built wirh React JS and Sass.
+
+[Demo](https://eglehelms.github.io/) | [Code](https://github.com/EgleHelms/eglehelms.github.io)
+
 ## Password Generator
 
 Simple password generator with ability to control the character sets and number of characters. Built with HTML, CSS, JavaScript.
