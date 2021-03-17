@@ -30,7 +30,7 @@ Fully accredited Web Developer in June 2021. German accredited certification by 
 
 ## Weather App
 
-Simple timer app, where you can set a timer of any length. Timer has a few default posibilities, e.g Pomodoro Timer set.  Built with HTML, CSS, JavaScript.
+Weather app that shows gets detailed forecast for current weather conditions in the given city/location and forecast for every 3 hours. Built with OpenWeatherMap REST API, React JS, Styled-Components, npm package manager.
 
 [Demo](https://eglehelms.github.io/weatherapp) | [Code](https://github.com/EgleHelms/weatherapp)
 
