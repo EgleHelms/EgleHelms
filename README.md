@@ -36,7 +36,7 @@ Weather app that shows gets detailed forecast for current weather conditions in 
 
 ## Portfolio page
 
-My portfolio page displaying my recent projects. Built wirh React JS and Sass.
+My portfolio page displaying my recent projects. Built wirh React JS, Sass, npm packages.
 
 [Demo](https://eglehelms.github.io/) | [Code](https://github.com/EgleHelms/eglehelms.github.io)
 
